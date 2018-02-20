@@ -31,12 +31,12 @@ In addition, you will be expected to produce the following three pie charts:
 *  Urban areas have the shortest distance but the most volume of rides, therefore they account for almost 50% of total Pyber Revenue. look    to exploit ride surges in urban areas for improved profit.
 
 ## Method
-The following pandas commands were utilized in this project:
-    * reading in large CSV files and turning them to DataFrames
-    * merging, grouping, and indexing data to find the desired results
-    * Agg function to do quantity analysis (count, mean, sum) of different variables
-    * Using the iloc/loc method to extract desired parts of DataFrames to query data for visualizations.
-    * matplotlib for graphing: bubble plots, pie charts, seaborn styles, etc.
+The following pandas commands were utilized in this project: <br>
+    * reading in large CSV files and turning them to DataFrames <br>
+    * merging, grouping, and indexing data to find the desired results <br>
+    * Agg function to do quantity analysis (count, mean, sum) of different variables <br>
+    * Using the iloc/loc method to extract desired parts of DataFrames to query data for visualizations. <br>
+    * matplotlib for graphing: bubble plots, pie charts, seaborn styles, etc. <br>
 
 # Visualizations
 
